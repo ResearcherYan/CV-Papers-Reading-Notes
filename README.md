@@ -2,7 +2,7 @@
 Reading notes for both classical and SOTA papers in computer vision.
 ## Preconditions
 1. It is recommended to learn Stanford cs231n to gain some basics in computer vision, after which you may find it easier to read these papers.
-2. Since github editor don't support latex, please use the chrome extension [**MathJax Plugin for Github**](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) so that you can see the formula in th notes. (If MathJax Plugin for Github can't be installed, try [**MathJax 3 Plugin for Github**](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod/related))
+2. Since github editor don't support latex, please use the chrome extension [**MathJax Plugin for Github**](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) so that you can see the latex-styled formula in the notes. (If MathJax Plugin for Github can't be installed, try [**MathJax 3 Plugin for Github**](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod/related))
 
 ## Classcial Papers
 1. [LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444.](classical/1.%20Deep%20learning.md)
